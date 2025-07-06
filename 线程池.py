@@ -1,9 +1,3 @@
-import csv
-
-import requests
-import lxml.etree as etree
-
-# /html/body/div[2]/div/div/div/div[4]/div[1]/div/table/tbody
 import requests
 import json
 from urllib.parse import urljoin
