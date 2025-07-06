@@ -17,4 +17,4 @@
 ### 环境安装
 
 ```bash
-pip install requests fake-useragent pandas
+pip install requests 
